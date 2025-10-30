@@ -76,7 +76,7 @@
 <br>
 <h2 align= "left">📱 Use To Code</h2>
 
-[![My Flutter App](https://github-readme-stats.vercel.app/api/pin/?username=NairaShaban&repo=my_flutter_app&border_color=42A5F5&bg_color=0D1117&title_color=E3F2FD&text_color=B0BEC5&icon_color=42A5F5)](https://github.com/rababhamdyy-SmartFinancialManagement/finyx_mobile_app)
+[![Finyx](https://github-readme-stats.vercel.app/api/pin/?username=Nayra11&repo=Finyx&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rababhamdyy-SmartFinancialManagement/finyx_mobile_app)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
