@@ -78,10 +78,10 @@
 
 <p align="center">
   <a href="https://github.com/rababhamdyy-SmartFinancialManagement/finyx_mobile_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rababhamdyy-SmartFinancialManagement&repo=finyx_mobile_app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rababhamdyy-SmartFinancialManagement&repo=finyx_mobile_app&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nayra-11/NotesApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=NotesApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=NotesApp&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>
 </p>
 
