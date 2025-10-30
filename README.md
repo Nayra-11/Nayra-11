@@ -103,6 +103,12 @@
 
 
 <br>
+<p align="center">
+  <a href="https://github.com/Nayra-11">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nayra-11&theme=radical" alt="Naira's GitHub Contribution"/>
+  </a>
+</p>
+
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
 
