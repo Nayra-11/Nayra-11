@@ -100,5 +100,10 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Nayra-11&theme=onestar&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
-
+<br>
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
