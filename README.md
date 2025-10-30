@@ -87,15 +87,10 @@
 
 <p align="center">
   <a href="https://github.com/Nayra-11/nihao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=nihao&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=nihao&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nayra-11/toku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=toku&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=toku&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nayra-11/assignment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=assignment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  </a>
-</p>
