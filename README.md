@@ -75,7 +75,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&labelColor=000000&logo=css3&logoColor=2965F1)
 <br>
 <br>
-و
+
 <h2 align= "left">📱 Projects </h2>
 
 <p align="center">
