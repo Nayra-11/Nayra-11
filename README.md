@@ -102,8 +102,13 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/Nayra-11">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayra-11&theme=radical&border=FF69B4&background=0D1117" alt="Naira's GitHub streak"/>
   </a>
 </p>
+<a> 
+    <a href="https://github.com/Nayra-11"><img alt="Naira's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nayra-11&show_icons=true&count_private=true&theme=react&border_color=FF69B4&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Nayra-11"><img alt="Naira's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nayra-11&langs_count=8&layout=compact&theme=react&border_color=FF69B4&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
