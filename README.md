@@ -97,6 +97,10 @@
 </p>
 <br>
 <h2 align=left> 🏆 GitHub Trophies </h2>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nayra-11&theme=onestar&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
+
 
 <br>
 
