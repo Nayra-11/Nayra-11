@@ -49,47 +49,28 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="50" height="50"/>
   </a>
 </p>
+<br>
 <h2 align= "left">🧠 Use To Code</h2>
-<!-- Badges لـ GitHub profile (HTML) -->
-<p>
-  <!-- Flutter -->
-  <a href="https://flutter.dev/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  </a>
 
-  <!-- Dart -->
-  <a href="https://dart.dev/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  </a>
-
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-
-  <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-
-  <!-- API (general) -->
-  <a href="https://en.wikipedia.org/wiki/API" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/API-REST%20%2F%20HTTP-2bbc8a?style=for-the-badge&logo=swagger&logoColor=white" alt="API">
-  </a>
-</p>
+<!-- 🔹 Flutter Ecosystem Badges -->
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=000000&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=000000&logo=dart&logoColor=0175C2)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=000000&logo=firebase&logoColor=FFCA28)
+![Bloc](https://img.shields.io/badge/Bloc-29B6F6?style=for-the-badge&labelColor=000000&logo=flutter&logoColor=29B6F6)
+![Cubit](https://img.shields.io/badge/Cubit-01579B?style=for-the-badge&labelColor=000000&logo=flutter&logoColor=01579B)
+![Provider](https://img.shields.io/badge/Provider-5C6BC0?style=for-the-badge&labelColor=000000&logo=flutter&logoColor=5C6BC0)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&labelColor=000000&logo=flutter&logoColor=8A2BE2)
+![Rest API](https://img.shields.io/badge/REST_API-2bbc8a?style=for-the-badge&labelColor=000000&logo=swagger&logoColor=2bbc8a)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&labelColor=000000&logo=json&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=000000&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=000000&logo=figma&logoColor=F24E1E)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&labelColor=000000&logo=androidstudio&logoColor=3DDC84)
+![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&labelColor=000000&logo=visualstudiocode&logoColor=0078d7)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=000000&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&labelColor=000000&logo=kotlin&logoColor=7F52FF)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=000000&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=000000&logo=javascript&logoColor=F0DB4F)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=000000&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=000000&logo=css3&logoColor=1572B6)
 
