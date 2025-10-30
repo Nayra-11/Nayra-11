@@ -49,3 +49,47 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="50" height="50"/>
   </a>
 </p>
+<h2 align= "left">🧠 Use To Code</h2>
+<!-- Badges لـ GitHub profile (HTML) -->
+<p>
+  <!-- Flutter -->
+  <a href="https://flutter.dev/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  </a>
+
+  <!-- Dart -->
+  <a href="https://dart.dev/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  </a>
+
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  </a>
+
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+
+  <!-- API (general) -->
+  <a href="https://en.wikipedia.org/wiki/API" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/API-REST%20%2F%20HTTP-2bbc8a?style=for-the-badge&logo=swagger&logoColor=white" alt="API">
+  </a>
+</p>
+
