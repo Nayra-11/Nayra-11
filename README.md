@@ -74,23 +74,25 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=000000&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&labelColor=000000&logo=css3&logoColor=2965F1)
 <br>
-<h2 align= "left">📱 Use To Code</h2>
+<br>
+و
+<h2 align= "left">📱 Projects </h2>
 
 <p align="center">
   <a href="https://github.com/rababhamdyy-SmartFinancialManagement/finyx_mobile_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rababhamdyy-SmartFinancialManagement&repo=finyx_mobile_app&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rababhamdyy-SmartFinancialManagement&repo=finyx_mobile_app&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF69B4" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nayra-11/NotesApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=NotesApp&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=NotesApp&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF69B4" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Nayra-11/nihao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=nihao&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=nihao&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF69B4" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nayra-11/toku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=toku&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayra-11&repo=toku&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF69B4" />
   </a>
 </p>
 
