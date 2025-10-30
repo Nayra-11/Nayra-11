@@ -26,6 +26,8 @@
  💬 &emsp; Ask me about anything [here](https://github.com/Nayra-11/Nayra-11/issues)
 
 </p>
+<br>
+<br>
 
 <h2 align="left">🚀 Connect & Download</h2>
 <p align="left">
